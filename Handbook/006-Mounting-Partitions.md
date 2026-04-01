@@ -5,7 +5,7 @@ After creating the filesystem, the next step in the **ScratchOS (SOS)** build pr
 
 ## Prerequisites
 - A target partition formatted with the `ext4` filesystem (e.g., `/dev/vdb1`).
-- The `$SOS` environment variable correctly set to your desired mount point (e.g., `/mnt/sos`).
+- The `$SOS` environment variable correctly set to your desired mount point (e.g., `/mnt/sos`) ; command: `export $SOS=/mnt/sos`.
 - Root privileges on the host system.
 
 ## Step-by-Step Procedure
