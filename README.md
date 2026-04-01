@@ -38,7 +38,8 @@ By the end of the handbook, you will have:
 - The `systemd` init system managing your services.
 - A deep understanding of how the various components of a Linux system fit together.
 
-## Link to the handbook : [[Handbook/000-Index.md]]
+## Link to the handbook :
+[[Handbook/000-Index.md]]
 
 ## Credits
 
