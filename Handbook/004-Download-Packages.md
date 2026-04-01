@@ -27,7 +27,7 @@ Before building **ScratchOS (SOS)**, you must download all the required source c
     - **Systemd (259.5):** [Download](https://github.com/systemd/systemd-stable/archive/v259.5/systemd-259.5.tar.gz)
     - **Vim (9.2.0078):** [Download](https://github.com/vim/vim/archive/v9.2.0078/vim-9.2.0078.tar.gz)
     
-    *Note: For a full list of over 50 packages, refer to the official [SOS Package List](https://www.linuxfromscratch.org/sos/view/stable-systemd/chapter03/packages.html).*
+    *Note: For a full list of over 50 packages, refer to the official [SOS Package List](https://github.com/gitx64/ScratchOS/blob/main/Handbook/Build%20packages.md).*
 
 3.  **Verify MD5 Sums:**
     Ensure the integrity of the downloaded packages by verifying their MD5 sums against the provided values.
