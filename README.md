@@ -39,7 +39,7 @@ By the end of the handbook, you will have:
 - A deep understanding of how the various components of a Linux system fit together.
 
 ## Link to the handbook :
-[[Handbook/000-Index.md]]
+[Handbook index](https://github.com/gitx64/ScratchOS/blob/main/Handbook/000-Index.md)
 
 ## Credits
 
